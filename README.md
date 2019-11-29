@@ -6,6 +6,10 @@
 
 Project on vehicle platooning
 
+### Base functions 
+
+All functionalities are implemented in the following package [vplatoon](https://github.com/aladinoster/vplatoon)
+
 ## Reproducibility
 
 Download this repository
