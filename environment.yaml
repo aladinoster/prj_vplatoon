@@ -1,0 +1,24 @@
+name: 02_plt
+
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - jupyterlab
+  - ipykernel
+  - black
+  - pytest
+  - ipywidgets
+  - numpy
+  - bokeh
+  - pylint
+  - pandas
+  - ipympl
+  - networkx
+  - selenium
+  - phantomjs
+  - matplotlib
+  - scipy
+  - pip
+  - pip:
+      - git+https://github.com/aladinoster/vplatoon.git
