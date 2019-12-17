@@ -2,6 +2,8 @@
 
 # Vehicle Platooning
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aladinoster/prj_vplatoon.git/Project03?filepath=Project03.ipynb)
+
 ## Overview
 
 Project on vehicle platooning
