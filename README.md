@@ -2,6 +2,8 @@
 
 # Vehicle Platooning
 
+### Project 04
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aladinoster/prj_vplatoon.git/Project04?filepath=Project04.ipynb)  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aladinoster/prj_vplatoon/blob/Project04/Project04.ipynb)
 
 ## Overview
